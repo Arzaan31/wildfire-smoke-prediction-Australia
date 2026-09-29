@@ -4,8 +4,8 @@ Data-driven wildfire smoke impact prediction and air quality forecasting for Aus
 This project develops machine learning models to predict wildfire smoke impacts and PM2.5 concentrations across Australia.
  
 Datasets:
-- NASA FIRMS
-- PM2.5 Monitoring Stations
+- DEA Hotspots
+- PM2.5 Monitoring Stations / CARDAT PM2.5
 - ERA5 Weather
  
 Students:
